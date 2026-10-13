@@ -1,0 +1,3 @@
+from threatgraph.urls import mount
+
+urlpatterns = [mount()]   # -> /api/cti-graph/v1/...
