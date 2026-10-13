@@ -1,0 +1,9 @@
+# RSS / Atom feeds read by `python -m ctikg news` (one URL per line).
+# Add or remove sources freely; a local file path works too.
+https://feeds.feedburner.com/TheHackersNews
+https://www.bleepingcomputer.com/feed/
+https://krebsonsecurity.com/feed/
+https://www.securityweek.com/feed/
+https://www.darkreading.com/rss.xml
+https://therecord.media/feed
+https://securityaffairs.com/feed
